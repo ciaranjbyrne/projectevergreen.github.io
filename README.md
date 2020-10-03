@@ -4,6 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues-raw/ProjectEvergreen/projectevergreen.github.io.svg)](https://github.com/ProjectEvergreen/projectevergreen.github.io/issues)
 [![GitHub issues](https://img.shields.io/github/issues-pr-raw/ProjectEvergreen/projectevergreen.github.io.svg)](https://github.com/ProjectEvergreen/projectevergreen.github.io/issues)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://raw.githubusercontent.com/ProjectEvergreen/projectevergreen.github.io/master/LICENSE.md)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fciaranjbyrne%2Fprojectevergreen.github.io.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fciaranjbyrne%2Fprojectevergreen.github.io?ref=badge_shield)
 
 ## Development
 Make sure you have [NodeJS](https://nodejs.org/) and [Yarn](https://yarnpkg.com/en/) installed.
@@ -21,3 +22,6 @@ Tasks to get you going working on this project:
 
 ## Release Management
 This project is managed as a GitHub page using [GitHub Actions](https://github.com/marketplace/actions/deploy-to-github-pages) to deploy it.  Everything should happen automatically on each merge into `develop`.  (since `master` is reserved for GitHub Pages per GitHub restrictions for orgs / users.)
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fciaranjbyrne%2Fprojectevergreen.github.io.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fciaranjbyrne%2Fprojectevergreen.github.io?ref=badge_large)
